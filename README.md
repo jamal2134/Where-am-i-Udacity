@@ -12,7 +12,13 @@ This project integrates:
 - Keyboard teleoperation  
 
 ---
-![Localization in RViz](rviz.png)
+![Localization in RViz 1](images/img1.png)
+
+---
+![Localization in RViz 2](images/img2.png)
+
+---
+![Localization in RViz 3](images/img3.png)
 
 ##  System Requirements
 
